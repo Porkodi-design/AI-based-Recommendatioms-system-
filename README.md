@@ -43,5 +43,3 @@ mvn exec:java
 
 
 output : 
-
-file_00000000ded461f48411b48b5c143644
