@@ -1,4 +1,4 @@
-<img width="1024" height="1024" COMPANY NAME : CODTECH IT SOLUTIONS 
+ COMPANY NAME : CODTECH IT SOLUTIONS 
 NAME : R porkodi 
 Intern ID : CT04DG2796
 Domain : Java programming 
